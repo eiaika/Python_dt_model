@@ -1,0 +1,26 @@
+{
+    "command":{
+        "id":"1234ckfod",
+        "controller_id": "ksajdejj111",
+        "type":"compute_dynamic"
+    },
+    "object":{
+        "model": "mod1",
+        "instance": "7f204286044f"
+    },
+    "args":{
+        "Duration":15,
+        "InitialData":{
+            "Tgas_out_1_5":402.13603092246535,
+            "Tgas_out_6_7":397.39257463168565,
+            "Tgas_out_8_9":333.13382277970135,
+            "Twater_out_1_5":343.15,
+            "Twater_out_6_7":338.1716801498798,
+            "Twater_out_8_9": 333.13382277970135
+        },
+        "SystemInputs":{
+            "Twater_in":332.15,
+            "Vgas":0.001783232844700864
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "command":{
+        "id":"1234ckfod",
+        "controller_id": "ksajdejj111",
+        "type":"compute_static"
+    },
+    "object":{
+        "model": "mod1",
+        "instance": "7f204286044f"
+    },
+    "args":{
+        "a": 1,
+        "b": 2
+    }
+}
